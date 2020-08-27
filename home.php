@@ -1,5 +1,3 @@
-<?php include("header1.php"); ?>
-
 <center><h1>Aboutme</h1><center>
                 <center><br><img src="image\1.jpg" alt="flower" width="300" height="300"><center>
 
@@ -30,4 +28,3 @@
                     <br>
 
  
- <?php include("footer1.php"); ?>
